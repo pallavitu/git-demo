@@ -1,3 +1,8 @@
 hello
 this is the first line for a demo file
 to use for git project, commit etc
+
+#ipsum below
+just type whatever you want. this is to modify the file and check to see how GIT tracks the changes.
+then may be commit the modified changes from local working area to GIT staging area. and then commit the changes to git repo.
+this is all being done locally.
