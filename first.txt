@@ -3,4 +3,6 @@ this is the first line for a demo file
 to use for git project, commit etc
 
 #website content
+these are the files
+index.html
 created a new html page
